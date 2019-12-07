@@ -17,7 +17,6 @@
       <a href="#">About</a>
     </nav>
     <span id="welcome-msg"></span>
-    <a id="logout-link" href="logout">Logout</a>
     <i id="avatar" class="avatar fa fa-user fa-2x"></i>
   </header>
   
@@ -30,15 +29,6 @@
     </header>
 
     <section class="main-section">
-      <div id="login-form">
-        <label for="username">Username:</label>
-        <input id="username" name="username" type="text">
-        <label for="password">Password:</label>
-        <input id="password" name="password" type="password">
-        <button id="login-btn">Login</button>
-        <p id="login-error"></p>
-      </div>
-
       <aside id="item-nav">
         <div class="nav-icon">
           <i class="fa fa-sitemap fa-2x"></i>
@@ -78,7 +68,8 @@
   </div>
   
   <footer>
-    <p class="title">Make the world a better place</p>
+    <p class="title">What We Do</p>
+    <p>"Help you find the best place around."</p>
     <ul>
       <li>
         <p><i class="fa fa-map-o fa-2x"></i></p>
@@ -86,16 +77,17 @@
       </li>
       <li>
         <p><i class="fa fa-envelope-o fa-2x"></i></p>
-        <p>qifanwu@xxxxx.com</p>
+        <p>qifanwuxxxx@xxxx.com</p>
       </li>
       <li>
         <p><i class="fa fa-phone fa-2x"></i></p>
-        <p>xxx-xxx-xxxx</p>
+        <p>617-xxx-xxxx</p>
       </li>
     </ul>
   </footer>
   
   <script src="https://rawgit.com/emn178/js-md5/master/build/md5.min.js"></script>
+  <script src="scripts/mock.js"></script>
   <script src="scripts/main.js"></script>
 </body>
 </html>
