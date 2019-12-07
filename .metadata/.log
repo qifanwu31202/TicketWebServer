@@ -157,3 +157,23 @@ Java Model Exception: Java Model Status [src/db [in TicketService] is not on its
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
 !SUBENTRY 1 org.eclipse.jdt.core 4 1006 2019-11-27 20:25:46.871
 !MESSAGE src/db [in TicketService] is not on its project's build path
+!SESSION 2019-11-28 18:39:24.163 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_232
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/qifanwu/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/qifanwu/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-11-28 18:39:42.600
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2019-12-07 17:02:10.993 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_232
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/qifanwu/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/qifanwu/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-12-07 17:02:29.760
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
