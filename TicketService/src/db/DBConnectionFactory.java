@@ -1,6 +1,7 @@
 package db;
 
 import db.mysql.MySQLConnection;
+import java.util.LinkedList;;
 
 public class DBConnectionFactory {
 	
@@ -16,6 +17,7 @@ public class DBConnectionFactory {
 		default:
 			throw new IllegalArgumentException("Invalid db:" + db);
 		}
+		
 
 	}
 	
